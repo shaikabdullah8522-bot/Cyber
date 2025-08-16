@@ -1,5 +1,4 @@
-JWT_SECRET = "your_generated_jwt_secret"
-ADMIN_API_KEY = "your_generated_admin_key"
-
-OPENAI_API_KEY = "your_openai_key"
-GEMINI_API_KEY = "your_gemini_key"
+JWT_SECRET=5a412fd5f45da96f2470abf8fc18aa0419efffdc08f22014987d523405de671d
+ADMIN_API_KEY=253uQx8i1XvxQ4GhN7WAxiHaLNIs0LbGagUaFvSYLvA
+OPENAI_API_KEY=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
+GEMINI_API_KEY=AIzaSyCO-XTtAWLJV9j4g4ar4N98_U_HDfR-KnA
